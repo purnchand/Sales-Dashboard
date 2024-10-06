@@ -2,7 +2,7 @@
 
 This is a Sales Dashboard Project using Power BI.
 
-The Advanced Sales Dashboard project represents a cutting-edge approach to sales analytics, combining the power of Excel, Power BI, and Python to deliver comprehensive insights into sales performance and trends. By leveraging dynamic visualizations, predictive analytics, and geographic visualization capabilities, this project empowers organizations to make data-driven decisions with confidence and agility.
+The Advanced Sales Dashboard project represents a cutting-edge approach to sales analytics, combining the power of Excel, Power BI. By leveraging dynamic visualizations, predictive analytics, and geographic visualization capabilities, this project empowers organizations to make data-driven decisions with confidence and agility.
 
 # Output
 
